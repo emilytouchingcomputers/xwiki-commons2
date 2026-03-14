@@ -111,7 +111,7 @@
     <groovy.version>3.0.11</groovy.version>
 
     <!-- Ivy -->
-    <ivy.version>2.5.0</ivy.version>
+    <ivy.version>2.5.3</ivy.version>
 
     <!-- Closure compiler -->
     <closure-compiler.version>v20220601</closure-compiler.version>

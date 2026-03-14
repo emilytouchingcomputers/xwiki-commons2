@@ -118,7 +118,7 @@
     <closure-compiler-maven-plugin.version>2.23.0</closure-compiler-maven-plugin.version>
 
     <!-- Maven Archetype -->
-    <maven.archetype.version>3.2.1</maven.archetype.version>
+    <maven.archetype.version>3.4.0</maven.archetype.version>
 
     <!-- By default Checkstyle, Backward compatibility check, Enforcer, License plugins, etc are on -->
     <xwiki.checkstyle.skip>false</xwiki.checkstyle.skip>
